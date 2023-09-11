@@ -1,4 +1,4 @@
-## Udemy Desenvolvimento Web com Quarkus
+## Udemy - Desenvolvimento Web com Quarkus
 
 ![Quarkus-Logo](/imgs/Img-0-Quarkus-Logo.jpg)
 
@@ -56,6 +56,8 @@ Projeto do curso "Desenvolvimento Web com Quarkus - Básico" da Udemy: CRUD de P
 - consome e produz `MediaType.APPLICATION_JSON`;
 - implementa as 4 funções básicas do CRUD;
 - as funções CRUD que não implementam o verbo GET devem ser anotadas com `@Transactional`.
+
+![UML-Class-Dark](/imgs/Img-7-UML-Classes-Dark.JPG)
 
 6. Configurar o arquivo `application.properties`.
 
